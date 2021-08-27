@@ -27,8 +27,6 @@
 		</div>
 
 		<script type="text/javascript">
-			var url = window.location.origin+"/devesh/tatvasoft-task/";
-
 		</script>
 	</body>
 </html>
